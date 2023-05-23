@@ -13,7 +13,6 @@ Desarrollar el sistema de información de acuerdo con las necesidades de los ins
 
 ## Producto a Entregar
 <ul>
- <li>
 <li>Base de Datos MySQL con las tablas y relaciones requeridas</li>
 <li>Proyecto Java Web Application en Modelo Vista Controlador con
 <li>Librería JDBC</li>
