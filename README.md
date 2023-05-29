@@ -1,4 +1,8 @@
 # CRUD-Notas-Estudiante
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 ## Descripción del problema
 Los instructores del Sena necesitan evaluar a los aprendices mediante evidencias que pueden asignar, y para aprobar, cada aprendiz debe alcanzar con un puntaje mínimo necesario que debe alcanzar. Para la actividad de evaluación, cada aprendiz debe demostrar sus conocimientos y habilidades desarrollando un sistema de información de Notas del estudiante.
 ## Justificación
